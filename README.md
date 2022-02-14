@@ -48,6 +48,7 @@ Hypothesis
 - H₁: whether vine membership and star rating are dependent.
 
 
-![Screen Shot 2022-02-14 at 1 54 59 PM](https://user-images.githubusercontent.com/89421440/153953871-f9ee1ed4-2eeb-4f76-979c-cab5e95b56a1.png)
+![Screen Shot 2022-02-14 at 2 06 56 PM](https://user-images.githubusercontent.com/89421440/153954929-275c4286-d04d-4e62-a12e-66d4f94a16e3.png)
 
 
+Even though the percentages do not point to bias, a chi-square test of independence showed that there was a significant association between vine membership and star rating, X2 = 637.240, p < .05. 
